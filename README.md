@@ -7,6 +7,8 @@ Professor Chunlei Liang: https://www.clarkson.edu/people/chunlei-liang The CHORU
 
 This code uses the high-order Spectral Difference method with divergence cleaning to perform compressible magnetohydrodynamic simulations. For details about the numerical methods, please refer to the journal publication https://doi.org/10.3847/1538-4357/ac6e61
 
+This code simulates a compressible MHD flow past an adabatic cylinder
+
 Systems that have been tested on: Linux (various flavors/distros), 64 bit (x86), with a fortran compiler (gfortran or ifort) and a MPI compiler (openmpi or mpich)
 
 Commands to run this code: make
