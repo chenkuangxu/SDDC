@@ -21,4 +21,4 @@ Commands to clean .o and executable files: make clean
 
 Parallel run: please install METIS library for mesh partitioning The most updated METIS library can be downloaded from http://glaros.dtc.umn.edu/gkhome/metis/metis/download The file for mesh partitioning an .mts file Use the metis command mpmetis filename.mts number_of_CPU to partition the mesh for parallel computing
 
-For further questions, please get contact with Kuangxu (Scott) Chen at Clarkson University: kuchen@clarkson.edu
+For further questions, please get contact with Kuangxu (Scott) Chen at Clarkson University: chenkuangxu@gmail.com
